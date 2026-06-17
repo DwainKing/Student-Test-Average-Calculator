@@ -15,6 +15,6 @@ function calculateAverage() {
     let average = testTotal / numStudents;
 
     document.getElementById("result").innerText =
-        "Number of students: " + numStudents +
+        "Number of Test: " + numStudents +
         " | Average: " + average.toFixed(2);
 }
