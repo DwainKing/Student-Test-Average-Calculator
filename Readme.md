@@ -11,7 +11,7 @@ This project demonstrates the same programming logic implemented in two differen
 ### Web Version
 
 1. Open the live demo link:  
-   https://github.com/DwainKing/Student-Test-Average-Calculator.git
+   (https://dwainking.github.io/Student-Test-Average-Calculator/)
 
 2. Enter student scores in the input box  
    Example: `90, 85, 78`
